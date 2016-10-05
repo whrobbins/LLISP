@@ -1,2 +1,2 @@
-# scheming
-Writing a Scheme interpreter to learn Haskell and functional programming
+# LLISP
+A Little LISP interpreter written in C
